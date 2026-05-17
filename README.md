@@ -4,9 +4,15 @@ http://localhost/Application_to_do_liste/index.php
 ## Compte de test
 - Email : `benoat@gmail.com`
 - Mot de passe : `utilisateur1`
+- Thème : 'Informatique'
 
 - Email : `borice@gmail.com`
 - Mot de passe : `utilisateur2`
+- Thème : 'Art'
+
+- Email : `isabelle@free.fr`
+- Mot de passe : `utilisateur3`
+- Thème : 'IA'
 
 ## STRUCTURE DES FICHIERS
   Application_TO_DO_LISTE/
